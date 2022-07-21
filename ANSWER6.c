@@ -2,7 +2,7 @@
 int main()
 {
     char s[40];
-    scanf("%s",s);
+    gets(s);
     printf("\"hello, %s\"",s);
     return 0;
 }
